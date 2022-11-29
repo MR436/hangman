@@ -32,5 +32,13 @@ while True:
         print("Oops! That is not a valid input.")
         break
 
+# Milestone 3
+The code has two functions: check_guess and ask_for_input
+check-guess function takes the guessed letter convert to lower case and check if the guessed letter is in the word.
+Then accordingly it prints the message for the user.
+ask_for_input function request for input from user check for two conditions: if input is string value and more than one character.
+check_for_guess function is called in ask_for_input function first that if the letter is in the word.
+
+
 
 
