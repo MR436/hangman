@@ -39,6 +39,8 @@ Then accordingly it prints the message for the user.
 ask_for_input function request for input from user check for two conditions: if input is string value and more than one character.
 check_for_guess function is called in ask_for_input function first that if the letter is in the word.
 
-
+# Milestone 5
+The game hangman is asking input from users to guess the letters from the list of words. The system picks a random word from list and ask input from user. The input provided is checked against the index of the word and and store the input if guessed correctly. In total user is given 5 lives and for any wrong guess the user looses a life from the game. After 5 guesses, the user lose the game. 
+This game helped to learn very basics of the python like creating functions and class. 
 
 
